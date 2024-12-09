@@ -1,0 +1,4 @@
+repository "metaboxing_test01@parallelcraft@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
